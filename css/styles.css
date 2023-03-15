@@ -49,6 +49,16 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-name {
+	font-size: 16px;
+	font-weight: bolder;
+	margin-left: 5px;
+}
+.text-center {
+	font-style: oblique;
+	font-weight: bolder;
+	font-size: 12px;
+}
 h1 {
 	font-family: 'Roboto Serif', serif;
 	font-weight: bolder;
