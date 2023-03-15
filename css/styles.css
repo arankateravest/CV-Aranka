@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #DFF7ED;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #DFF7ED;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +36,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #29A571;
 }
 
 .biography-details li, .skill-list li {
@@ -48,4 +48,24 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+h1 {
+	font-family: 'Roboto Serif', serif;
+	font-weight: bolder;
+}
+h2 {
+	font-family: Montserrat;
+	font-weight: bolder;
+}
+h4 {
+	color: mediumaquamarine;
+	font-weight:bolder;
+	font-size: 20px;
+}
+h5{
+	font-weight: bold;
+	font-size: 16px;
+}
+.language-progress {
+	background-color: cadetblue !important
 }
