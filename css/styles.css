@@ -3,11 +3,10 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Montserrat", Nabla
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Montserrat", "Nabla";
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -22,7 +21,6 @@ body {
 
 .resume-main {
 	background-color: #fffefc;
-	padding-left: 20px;
 }
 
 .resume-aside {
@@ -64,8 +62,8 @@ body {
 	font-size: 12px;
 }
 h1 {
-	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	font-weight: bold;
+	font-family: "Nabla";
+	font-color: blue !important;
 }
 h2 {
 	font-family: Montserrat;
