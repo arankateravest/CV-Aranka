@@ -93,3 +93,7 @@ h5{
 .skill-item {
 	margin-left: 5px;
 }
+.rounded-circle {
+	border: dotted;
+	border-color: #29A571;
+}
