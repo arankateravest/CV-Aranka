@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Montserrat", "Nabla";
+	font-family: "Roboto", sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -45,6 +45,9 @@ body {
 	padding-left: 1em;
 }
 
+.skill-list li::before {
+	color: #29A571;
+}
 /* Styles for contact icons */
 
 .contact-icon {
@@ -63,9 +66,12 @@ body {
 }
 h1 {
 	font-family: "Nabla";
+	font-color: mediumaquamarine;
 }
 .tagline {
-	padding-left: 4px;	
+	padding-left: 2px;
+	font-weight: 550;
+	font-size: 14px;
 }
 h2 {
 	font-family: Montserrat;
@@ -77,9 +83,12 @@ h4 {
 	font-size: 20px;
 }
 h5{
-	font-weight: bold;
+	font-weight: bolder;
 	font-size: 16px;
 }
 .language-progress {
 	background-color: cadetblue !important
+}
+.skill-item {
+	margin-left: 5px;
 }
