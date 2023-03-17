@@ -2,6 +2,7 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap');
 
 /* Styles for the body */
 
@@ -64,7 +65,8 @@ body {
 	font-size: 12px;
 }
 h1 {
-	font-family: "Nabla";
+	font-family: "Cinzel Decorative", serif;
+	font-weight: 900;
 }
 .tagline {
 	padding-left: 4px;	
@@ -85,7 +87,7 @@ h5{
 .language-progress {
 	background-color: cadetblue !important
 }
-.fst-italic {
-	font-weight: thin !important;
-	font-color: #29A571 !important;
+.rounded-circle {
+	border: dotted;
+	border-color: #29A571;
 }
