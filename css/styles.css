@@ -65,8 +65,8 @@ body {
 	font-size: 12px;
 }
 h1 {
-	font-family: "Nabla";
-	font-color: mediumaquamarine;
+	font-family: "Cinzel Decorative", cursive;
+	font-weight: 900;
 }
 .tagline {
 	padding-left: 2px;
@@ -76,11 +76,12 @@ h1 {
 h2 {
 	font-family: Montserrat;
 	font-weight: bolder;
+	font-size: 24px;
 }
 h4 {
 	color: mediumaquamarine;
 	font-weight:bolder;
-	font-size: 20px;
+	font-size: 18px;
 }
 h5{
 	font-weight: bolder;
