@@ -63,7 +63,9 @@ body {
 }
 h1 {
 	font-family: "Nabla";
-	font-color: blue !important;
+}
+.tagline {
+	padding-left: 4px;	
 }
 h2 {
 	font-family: Montserrat;
